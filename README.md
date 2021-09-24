@@ -2,7 +2,7 @@
 # Booking Cinema Ticket By Laravel!
 
 ### More Information
-- Using Sancum Package 
+- Using Sanctum Package 
 - Defining Separated Trait For RelationShips
 - Testing Features For All Models
 - Using Request For Request Validation

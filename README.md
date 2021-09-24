@@ -3,7 +3,7 @@
 
 ### More Information
 - Using Sanctum Package 
-- using sanctum middelware to limited user's
+- using sanctum middelware to limit user's
 - Defining Separated Trait For RelationShips
 - Testing Features And Unit For All Models And Api's
 - Using Request For Request Validation

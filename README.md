@@ -4,7 +4,7 @@
 ### More Information
 - Using Sanctum Package 
 - Defining Separated Trait For RelationShips
-- Testing Features For All Models
+- Testing Features And Unit For All Models And Api's
 - Using Request For Request Validation
 - Using Respurce For Returning Api's
 - Using PipeLine For Filtering Available Seat's in TicketController (Located in Comment Part)

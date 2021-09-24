@@ -7,7 +7,7 @@
 - Testing Features And Unit For All Models And Api's
 - Using Request For Request Validation
 - Using Respurce For Returning Api's
-- Using PipeLine For Filtering Available Seat's in TicketController (Located in Comment Part)
+- Using PipeLine For Filtering Available Seat's in TicketController (Located in Comment Part , If you would like to use please comment out that)
 - Located Postman Collection 
 
 Install all the dependencies using composer

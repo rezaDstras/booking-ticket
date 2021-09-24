@@ -1,7 +1,7 @@
 
-#Booking Cinema Ticket By Laravel!
+# Booking Cinema Ticket By Laravel!
 
-###More Information
+### More Information
 Using Sancum Package 
 Defining Separated Trait For RelationShips
 Testing Features For All Models

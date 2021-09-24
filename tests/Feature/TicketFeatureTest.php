@@ -18,6 +18,8 @@ class TicketFeatureTest extends TestCase
 
 
     private $user ;
+    private $movie ;
+    private $seat ;
     public function setUp(): void
     {
         parent::setUp();

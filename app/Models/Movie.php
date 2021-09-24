@@ -10,8 +10,6 @@ class Movie extends Model
 {
     use HasFactory ,HasManyTickets ;
 
-
-
     //Getting Occupied Seat
     public static function occupiedSeat($id)
     {
